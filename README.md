@@ -1,0 +1,2 @@
+# hardcorowysurvival
+Serwer HardcorowySurvival.pl
