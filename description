@@ -1,33 +1,58 @@
-Serwer: Hardcorowy-Survival.pl
-Tryb: Hard Mode
-Ilosć slotów: 20
+Zcraftowani.pl
+
+Witajcie użytkownicy, prezentujemy Wam serwer Survival na wersję minecraft'a 1.12. Serwer został stworzony, aby zaspokoić osoby, które stęskniły się za takimi serwera. Serwer stoi na dość dobrej maszynie, więc nie powinno być lagów, pluginy są prawidłowo skonfigurowane i zoptymalizowane. Nie posiadamy autorskich pluginów, lecz nie stanowiło to dla nas problemu, paczka jest dobrana idealnie i niczego nie brakuje.
+
+Podstawowe informacje:
+Sloty: 30
 Wersja: 1.12
-IP: hardcorowysurvival.pl
-Premium: Tak
-Whitelista: Nie
-Rekrutacja: Tak
+IP: Zcraftowani.pl
+Autoryzacja: Autologowanie Premium + non Premium
+
+
+Co wyróżnia nasz serwer?
+
+- Każdy gracz może sam założyć sobie działkę! Jej wielkość zależy od czasu przeznaczonego na grę. (100 bloków na godzinę w formacie A*B*C poradnik poniżej)
+- Dużo więcej bloków podlega prawom fizyki, co sprawia, że budynki są bardziej realistyczne!
+- Łatwiejsze i szybsze ścinanie drzew, nie pozostawia oszpeconych terenów!
+- Auto-logowanie premium, mając premium nie musisz się rejestrować i logować!
+- Różne ciekawe efekty po utrzymaniu obrażen! (np. upadek z wysokości, spowolni Cię na chwilę)
+- Pływanie podczas dużego obciążenia jest niemożliwe!
+- Po ścieżkach poruszamy się szybciej!
+- Potwory są dużo silniejsze i posiadają własne efekty, co sprawia, że rozgrywka jest ciekawsza!
+- Górnictwo jest trudniejsze i bardziej realistyczne, wydobywanie rud przerabia stone'a wokół nich na cobblestone!
+- Piekłe wszystko chce Cię zabić!
+- Zwierzęta mają klaustrofobię i giną, gdy posiadają za mało miejsca!
+- Uprawy są bardziej wymagające!
+- Handel, który tworzą gracze, sami ustalają ceny kupna i sprzedaży!
+- Zakładanie drużyń do wspólnej gry!
+- Zmiana statusu PVP w czasie rzeczywistym!
+- Po śmierci jesteś obolały i głodny!
+- Możesz mieć własnego konia, który będzie tylko Tobie posłuszny!
+
+
+
+Jeśli masz pomysł na innowację, bardzo chętnie Cię wysłuchamy i omówimy twoją propozycję!
+
+
+
+
+https://www.spigotmc.org/resources/coreprotect.8631/
+
+
+
+
+
+
 
 https://www.mpcforum.pl/topic/757573-tworzenie-plugin%C3%B3w-dla-bukkit/
-
+https://www.mpcforum.pl/topic/1628266-serwer-na-kt%C3%B3rym-by%C5%9B-zagra%C5%82/
 
 Witajcie użytkownicy! Prezentujemy Wam serwer inny niż wszystkie! To nie jest kolejny easyhc, nie znajdziesz u nas gildii! Pomysł na serwer zrodził się podczas rozmowy dwóch przyjaciół, którzy pragneli stworzyć serwer, który zaciekawi i przyciągnie, wpadli na pomysł stworzenia czegoś nowego!
 
 Serwer posiada autorską mapę, na której w dowolnym miejscu możesz się osiedlić wraz z przyjaciółmi tworząc swoją drużynę.
 
+y!
 
-Innowacje na naszym serwerze:
-- Górnictwo - jest o wiele trudniejsze i dłużej trwa, dlatego zwiedzanie jaskiń będzie bardziej optymalną opcją zbierania surowców! TNT w tej sprawie bardzo pomoże, do tworzenia tuneli i eksploracji podziemia. Wydobując surowce, kamień obok rud się psuje, co skutkuje trudniejszym kopaniem.
-- Grawitacja - Bloki takie jak ziemia i trawa i cobble zachowują grawitację jak piasek i żużel! Nie będziesz wstanie tworzyć konstrukcji niezgodniej z grawitacją!
-- Pochodnie - Nie działają w głębokich czeluściach kopalnii ze względu na brak powietrza!
-- Piekło - Chodząc i przemierzając Piekło jest szansa, że się podpalisz chodząc po Netherracku!
-- Leśnictwo - ułatwiliśmy ścinanie drzew, aby świat nie został oszpecony przez drzewa obciętę do 5-6 kratek w górę!
-- Obrażenia - Po upadnięciu z wysokości, bliskim wybuchu jest szansa, że nabawisz się kontuzji i będzie poruszać się wolniej, możesz zostać oślepiony lub zatruty, w zależności od rodzaju wypadku.
-- Śmierć - Po śmierci, część naszego ekwipunku znika i nie jesteśmy wstanie go już odzyskać! Należy uważać na siebie! Po odrodzeniu nie będziesz zdrowy i wesoły, lecz słaby i głodny!
-- Pływanie - Nie będzie mógł pływać, jeśli niesiesz zbyt dużą ilość rzeczy w ekwipunku.
-- Potwory i Zwierzęta - Na naszym serwerze jest dużo więcej potworów niż na zwykłych, innych serwerach! Potwory także spawnią się przy świetle! Konie także muszą jeść, aby żyć! Zombie są trochę szybsze i spowalniają przy uderzeniu, jest szansa, że Zombie się odrodzi po śmierci! Szkielety odpychają strzałami na sporą odległość, ale też posiadają zatrute strzały, które mogą Cię oślepić lub podpalić. Z ich kości mogą zrespić się Silverfishe, które są bardzo irytujące. ;) Silverfishe tażke mogą się spawnić randomowo na świecie. Pająki rzucają pajęczyną, która może Cię spowolnić. Eksplozje Creeperów są dużo mocniejsze i zabicie ich może skutkować dodatkowym wybuchem dużo mocniejszym. Blazy mogą się także spawnić na niskich poziomach blisko bedrocka. Magmacube mogą zamieniać się w Blazy po śmierci. PigZombie zawsze są nastawione agresywnie! Ghasty mają dużo więcej życia i ciężej je zabić z łuku. Enderman może Cię złapać w pomieszczeniu poniżej 3 kratek wysokości. Wiedźmy spawnują Baby Zombie oraz atakują eksplozjami.
-- Uprawa roli - Sianie zboża jest dużo trudniejsze, wymaga wody, światła, ciepła(pomieszczenia).
-- Hodowla - Zwierzęta mają klaustrofobię i w mały pomieszczeniach przetrzymywania ubierają. (min 3x3x3)
-- Drużyny - Na naszym serwerze możesz grać swobodnie z przyjaciółmi tworzą drużyny! Każda drużyna ma do dyspozycji jeden teleport, jest to jedyny teleport, który można używać na naszym serwerze!
 
 W planach mamy więcej modyfikacji naszego serwera, coraz to bardziej utrudniając rozgrywkę!
 
