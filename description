@@ -41,11 +41,114 @@ Jeśli masz pomysł na innowację, bardzo chętnie Cię wysłuchamy i omówimy t
 
 
 DODAĆ:
-https://www.spigotmc.org/resources/coreprotect.8631/
+- automatyczne wiadomości
+- SafeTrade - https://www.spigotmc.org/resources/safetrade.13885/
+- Speed on grass path - https://www.spigotmc.org/resources/speed-on-grass-path.37608/
+- ZHorse - https://www.spigotmc.org/resources/zhorse.3384/
+- DiceFurniture Plugin - https://www.spigotmc.org/resources/dicefurniture-plugin-m%C3%B6bel-plugin.6006/ ??????????
 
 
+DO sprawdzenia:
+- poprawność ExtraHardMode
+- 
 
 
+Uprawnienia:
+
+default:
+  - authme.player.changepassword
+  - authme.player.email
+  - authme.player.login
+  - authme.player.register
+  - -authme.player.logout
+  - -authme.player.unregister
+  - essentials.exp
+  - essentials.kit
+  - essentials.kits.gracz
+  - essentials.time
+  - essentials.balance
+  - essentials.balancetop
+  - essentials.afk
+  - essentials.afk.auto
+  - essentials.helpop
+  -	essentials.ignore
+  - essentials.list
+  -	essentials.mail
+  - essentials.mail.send
+  -	essentials.motd
+  -	essentials.msg
+  - essentials.suicide
+  - essentials.ban.notify
+  - essentials.kick.notify
+  - essentials.mute.notify
+  - essentials.spawn ????????????????????????????????
+  - essentials.home.bed
+  - essentials.sethome.bed
+  -	essentials.tpaccept
+  - essentials.tpdeny
+  - 
+
+vip:
+  - authme.vip
+  - essentials.workbench
+  - essentials.msg.color
+  - essentials.enderchest
+  - essentials.back ??????????????????????????????????
+  - essentials.back.ondeath ???????????????????????????
+  - essentials.home
+  - essentials.chat.color
+  - essentials.chat.format
+  - essentials.joinfullserver
+  - essentials.signs.color
+  
+helper:
+  - coreprotect.inspect
+  - coreprotect.lookup
+  - coreprotect.rollback
+  - coreprotect.help
+  - essentials.fly ??????????????????????????????
+  - essentials.helpop.receive
+  - essentials.chat.ignoreexempt
+  - essentials.seen ??????????????????????????????
+  - essentials.whois ?????????????????????????????
+  - essentials.enderchest.others
+  - essentials.invsee
+  - essentials.kick
+  - essentials.mute
+  - essentials.ping
+  - essentials.tempban
+  - essentials.tempban.offline
+  - essentials.weather
+  - essentials.tpa
+  
+moderator:
+  - authme.admin.changemail
+  - authme.admin.changepassword
+  - authme.admin.accounts
+  - authme.admin.antibotmessages
+  - authme.admin.getemail
+  - authme.admin.lastlogin
+  - authme.admin.register
+  - authme.admin.seeotheraccounts
+  - authme.admin.spawn
+  - authme.bypassantibot
+  - coreprotect.restore
+  - coreprotect.purge
+  - essentials.ban
+  - essentials.ban.offline
+  - essentials.banip
+  - essentials.mute.offline
+  - essentials.socialspy
+  - essentials.tempban.unlimited
+  - essentials.unban ???????????????????????????
+  - essentials.unbanip ??????????????????????????
+  - essentials.vanish
+  - essentials.vanish.effect
+  - essentials.tp
+  - essentials.silentjoin
+  -	essentials.chat.spy
+  -	essentials.silentquit
+admin:
 
 
 
