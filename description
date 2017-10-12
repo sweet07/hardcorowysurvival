@@ -86,7 +86,34 @@ default:
   - essentials.sethome.bed
   -	essentials.tpaccept
   - essentials.tpdeny
-  - 
+  - griefprevention.createclaims
+  - griefprevention.transferclaim ??????????????
+  - griefprevention.claims
+  - -griefprevention.buysellclaimblocks ?????????????????
+  - griefprevention.visualizenearbyclaims
+  - griefprevention.seeinactivity ???????????????
+  - griefprevention.seeclaimsize ??????????????
+  - parties.sendmessage
+  - parties.help
+  - parties.create
+  - parties.accept
+  - parties.deny
+  - parties.ignore
+  - parties.leave
+  - parties.join
+  - parties.password
+  - parties.info
+  - parties.members
+  - parties.home
+  - parties.sethome
+  - parties.desc
+  - parties.motd
+  - parties.chat
+  - parties.list
+  - parties.invite
+  - parties.kick
+  - parties.rank
+  - parties.claim
 
 vip:
   - authme.vip
@@ -120,6 +147,9 @@ helper:
   - essentials.tempban.offline
   - essentials.weather
   - essentials.tpa
+  - Phoenix.Notification
+  - parties.info.others
+  - parties.members.others
   
 moderator:
   - authme.admin.changemail
@@ -148,6 +178,17 @@ moderator:
   - essentials.silentjoin
   -	essentials.chat.spy
   -	essentials.silentquit
+  - Phoenix.Command
+  - parties.home.others
+  - parties.rank.others
+  - parties.kick.others
+  - parties.admin.vaultbypass
+  - parties.admin.fixed
+  - parties.admin.delete
+  - parties.admin.delete.silent
+  - parties.admin.rename
+  - parties.admin.joindefault.bypass
+  - parties.admin.spy
 admin:
 
 
