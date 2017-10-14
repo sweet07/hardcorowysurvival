@@ -8,3 +8,7 @@ version 0.0.1 - 13.10.2017
     - ustawienia authme i fastlogin,
     - wgranie essentialsx, chat i spawn,
     - wstępna konfiguracja essentialsx,
+version 0.0.2 - 14.10.2017
+    - stworzenie rang,
+    - wprowadzenie podstawowych uprawnień dla rangi default,
+    
